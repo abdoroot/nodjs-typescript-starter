@@ -7,7 +7,7 @@ test:
 	@npm run test
 
 lint:
-	@npx eslint .
+	@npx eslint .	
 
 build:
 	@npm run build
