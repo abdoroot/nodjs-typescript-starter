@@ -32,7 +32,7 @@ This is a starter project for building a Node.js application using TypeScript. T
 
 1. **Install dependencies**: `npm install`
 2. **Copy environment variables**: `cp .env.example .env`
-3. **Run the application**: `npm run start` or `make run`
+3. **Run the application**: `npm run start` or `make start`
 
 ## License
 
